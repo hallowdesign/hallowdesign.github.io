@@ -11,7 +11,7 @@
 	body {
 		margin: 0px;
 		padding: 0px;
-		background: #180E0B;
+		background: #070707;
 		font-family: 'Raleway', sans-serif;
 		font-size: 11pt;
 		color: #000000;
@@ -278,18 +278,18 @@
 	{
 		position: relative;
 		padding: 6em 0em;
-		background: #261611;
-		color: #774535;
+		background: #3a3a3a;
+		color: #afafaf;
 	}
 	
 	#main header h2
 	{
-		color: #bc765f;
+		color: #c6c6c6;
 	}
 	
 	#main a
 	{
-		color: #bc765f;
+		color: #e8e8e8;
 	}
 
 /*********************************************************************************/
@@ -317,7 +317,7 @@
 	
 	#marketing header h2
 	{
-		color: #c0745d;
+		color: #cccccc;
 	}
 
 /*********************************************************************************/
